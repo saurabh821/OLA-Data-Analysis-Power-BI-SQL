@@ -104,7 +104,7 @@ Identify incomplete rides and their reasons.
 - Booking Status Breakdown
 - Ride Volume Trend
 
-![Overall Dashboard](Screenshots/overall.png)
+
 
 ---
 
@@ -115,7 +115,7 @@ Identify incomplete rides and their reasons.
 - Average Distance Travelled
 - Total Distance Travelled
 
-![Vehicle Dashboard](Screenshots/vehicle_type.png)
+
 
 ---
 
@@ -125,7 +125,7 @@ Identify incomplete rides and their reasons.
 - Top 5 Customers by Booking Value
 - Ride Distance Distribution
 
-![Revenue Dashboard](Screenshots/revenue.png)
+
 
 ---
 
@@ -135,7 +135,7 @@ Identify incomplete rides and their reasons.
 - Driver Cancellation Reasons
 - Cancellation Metrics
 
-![Cancellation Dashboard](Screenshots/cancellation.png)
+
 
 ---
 
@@ -144,7 +144,7 @@ Identify incomplete rides and their reasons.
 - Driver Ratings by Vehicle Type
 - Customer Ratings by Vehicle Type
 
-![Ratings Dashboard](Screenshots/ratings.png)
+
 
 ---
 
